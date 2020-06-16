@@ -1,7 +1,8 @@
 # BSFAmk2
 A simple to use function for Bayesian Stochastic Frontier Analysis 
 
-The main file to run is fibsf.m which contains the named function. Below is the description From fitbsf.m file on how to use it: 
+The main file to run is fibsf.m which contains the named function. 
+Below is the description from fitbsf.m file on how to use it: 
 
 % Function for Bayesian estiamtion of several most popular Stochstic Frontier models. 
 % 
